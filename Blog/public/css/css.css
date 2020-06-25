@@ -1,0 +1,30 @@
+/* 
+#5d5d5a
+#ffa45c
+#ffcdab
+#fff4e3
+*/
+
+
+header
+{
+	background-color: #fff4e3;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+
+.navbar
+{
+	background-color: #ffa45c;
+	margin-bottom: 1.5em;
+}
+
+#body
+{
+	background-color: #5d5d5a;
+
+}
+.postHeader
+{
+	padding-bottom:1em;
+}
