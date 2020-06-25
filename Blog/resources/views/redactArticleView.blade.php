@@ -3,6 +3,7 @@
 @section('title')
 <title>Poster un billet</title>
 @endsection
+
 @section('blogPostForm')
 	<form method='post'>
 		<input type="hidden" name="_token" value="{{ csrf_token() }}">

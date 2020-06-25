@@ -9,15 +9,16 @@
 header
 {
 	background-color: #fff4e3;
-	padding-top:2em;
-	padding-bottom:2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 .navbar
 {
-	background-color: #ffa45c;
-	margin-bottom: 1.5em;
+	background-color: #fff4e3;
+	margin-bottom: 1em;
 }
+
 
 #body
 {
@@ -26,5 +27,5 @@ header
 }
 .postHeader
 {
-	padding-bottom:1em;
+	padding-bottom: 1em;
 }
